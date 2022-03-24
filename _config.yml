@@ -117,11 +117,11 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /
+  首页: /
   #categories: /categories/
   #about: /about/
-  archives: /archives/
-  tags: /tags/
+  归档: /archives/
+  标签: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -231,9 +231,9 @@ social_icons:
   Weibo: weibo
 
 
-# Sidebar Avatar
-# in directory: /assets/images/avatar.gif
-#avatar:
+# Sidebar 
+# in directory: /assets/images/.gif
+#:
 
 
 # Table Of Contents in the Sidebar
@@ -408,7 +408,7 @@ wildfire:
   # other configs
   theme: light # or dark
   locale: en # or other locales, e.g. zh-CN
-  defaultAvatarURL: 
+  defaultURL: 
 # Any question? 
 # Raise an issue here: https://github.com/cheng-kang/wildfire/issues
 # </wildfire>
