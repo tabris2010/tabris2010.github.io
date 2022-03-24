@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
+title: tabris的博客
+subtitle: 一个无情的刷题机器
 description:
-author: John Doe
+author: tabris
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-CN
 date_format: '%Y-%m-%d'
 
 # URL
